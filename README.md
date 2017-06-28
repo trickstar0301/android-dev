@@ -7,7 +7,9 @@
 - 運用監視ツール(zabbixなど)
     ``http://www.atmarkit.co.jp/ait/articles/1604/18/news014.html``
 - jenkins（テスト自動化CIツール）
-- d3.js(グラフィカルに表示できるJSライブラリ)
+- ~d3.js(グラフィカルに表示できるJSライブラリ)~
 - kibana(データベースの内容をを可視化できるツール)
-- marklogic(非構造・NoSQLのデータ検索ツール。OSSではないが、5/31にデータが投資したため、要学習。)
 - serverspec
+- ansible
+- webpack
+- gerrit

@@ -9,7 +9,8 @@
 - jenkins（テスト自動化CIツール）
 - ~d3.js(グラフィカルに表示できるJSライブラリ)~
 - kibana(データベースの内容をを可視化できるツール)
-- serverspec
-- ansible
+- ~serverspec~
+- ~ansible~
+- riot.js(SPA用のフロントフレームワーク)
 - webpack
 - gerrit
